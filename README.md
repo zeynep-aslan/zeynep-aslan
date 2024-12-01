@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 
 
-I'm a 23 years old Machine Learning enthusiast based in Istanbul. I'm pursuing my master's in Computer Engineering while working as a data scientist at Publicis Groupe. In the past, I worked as a Computer Vision Engineer for 7 months, working in various problems. Currently you'll find me learning natural language processing, doing time series forecasting and maybe releasing tutorials about several computer vision concepts.
+I'm a 23 years old Machine Learning enthusiast based in Istanbul. I'm pursuing my master's in Computer Engineering while working as a AI Engineer at Vakıfbank. In the past, I worked as a data scientist, data science, data engineer and computer vision engineering intern several years. Currently you'll find me learning natural language processing, doing time series forecasting and maybe releasing tutorials about several computer vision concepts.
 
 ## 🔗 Let's Connect!
 <a href="https://medium.com/@zeynepaslann" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -10,7 +10,7 @@ I'm a 23 years old Machine Learning enthusiast based in Istanbul. I'm pursuing m
 ## 🔨 Stack 
 
 🐍 Python Stack
-- Natural Language Processing: Hugging Face (transformers, LSTM), NLTK
+- Natural Language Processing: Hugging Face (transformers, LSTM), NLTK, LLMs
 - Computer Vision: OpenCV, PIL, Pytesseract
 - Machine Learning: TensorFlow, Scikit-learn, Optuna
 - Data Science: Numpy, Pandas
@@ -19,7 +19,7 @@ I'm a 23 years old Machine Learning enthusiast based in Istanbul. I'm pursuing m
 - Other Tools: SSIS, RapidMiner, Tkinter
 
 Databases
-- PostgreSQL, MSSql
+- PostgreSQL, MSSql, PLSQL
 
 Programming Languages
 - Python, C++, C#, Java
